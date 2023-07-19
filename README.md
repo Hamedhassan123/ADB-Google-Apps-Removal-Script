@@ -6,6 +6,7 @@ Copy-and-paste solution to "uninstall" Google Apps from your Android. Tested on 
 
 (Note that, since /system is r/o, using this script will *not* free space on your device; it only disables the apps from running.)
 
+
 **Recommended Usage:**
 
 0. Enable Developer Settings, enable ADB debugging.
